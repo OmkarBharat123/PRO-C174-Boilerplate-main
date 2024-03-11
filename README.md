@@ -1,1 +1,1 @@
-# PRO-C174-Boilerplate-main
+# PRO-C174-Student-Boilerplate
